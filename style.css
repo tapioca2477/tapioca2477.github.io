@@ -48,7 +48,7 @@
 }
 
 body {
-  background-color: rgb(98, 134, 146);
+  background-color: rgb(102, 162, 181);
   background-repeat: repeat;
   background-attachment: fixed;
   background-size: 10em;
@@ -108,7 +108,7 @@ a:hover {
   transition-duration: 0.2s;
   -webkit-transition-property: transform;
   transition-property: transform;
-  border-radius: 15%;
+  border-radius:100%;
   display: block;
   margin-left: auto;
   margin-right: auto;
